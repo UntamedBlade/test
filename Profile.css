@@ -1,0 +1,22 @@
+.back {
+  background-image: url(http://i.stack.imgur.com/spmUM.gif);
+  position: relative;
+  bottom: 20px;
+
+  top: 20px
+  font-size: 18px;
+
+
+}
+
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.newback{
+  background-image: url(http://merabheja.com/wp-content/uploads/2016/10/39cb1e90c7d901332b0236c13a486f67.gif);
+  background-size: cover;
+  background-attachment: fixed;
+}
